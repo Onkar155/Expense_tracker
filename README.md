@@ -24,12 +24,9 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
-
-
-##This app is also hosted on the Netlify 
+### `App Hosting`This app is also hosted on the Netlify 
 link to Netlify
 
 https://epic-mestorf-b391f3.netlify.app/
